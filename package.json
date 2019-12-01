@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rakesh Pai <rakesh.pai@ril.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.1",
+    "ramda": "^0.26.1"
+  }
+}
